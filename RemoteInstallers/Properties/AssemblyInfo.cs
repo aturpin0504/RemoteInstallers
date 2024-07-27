@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("RemoteInstallers")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A .NET class library that provides functionalities for remote file copying and script execution.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Aaron Turpin")]
 [assembly: AssemblyProduct("RemoteInstallers")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
